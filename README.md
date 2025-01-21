@@ -20,7 +20,7 @@ The site includes essential pages such as a landing page, product listings, a co
 
 ---
 
- **pages of the website**  
+## **pages of the website**  
 ![1](https://github.com/user-attachments/assets/9a9a7ff3-cde7-491d-b6a6-336a0e4584fe)
 ![2](https://github.com/user-attachments/assets/99e22651-9003-422a-8897-01f74000ff92)
 ![3](https://github.com/user-attachments/assets/b1e15ecb-65f9-4e2d-b72d-7668334b7700)
