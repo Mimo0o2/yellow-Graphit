@@ -1,0 +1,13 @@
+.contain{
+  height: max-content;
+  margin: 5px 40px;
+}
+p{
+  font-size: large;
+}
+b{
+  font-size: x-large;
+}
+footer p{
+ padding-top: 30px;
+}
